@@ -1,0 +1,27 @@
+warband: The Legends (Pit Fighter)
+active: false
+campaign: 5
+objective: The Lure of Fortune
+alignment: Lawful/Neutral
+achievments:
+
+gc: 100
+shards: 5
+equipment:
+
+heros:
+    - hero: Jack (Warrior) [32XP]
+      stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
+      skilllists: Combat, Shooting, Academic, Strength, Special
+      weapons: Axe, Axe
+      armour: Helmet, Light Armour, Lucky Charm
+      rules: Leader, Blackblood, Expert Axeman, Tactician
+      warbandaddition: 5
+
+henchmen:
+    - group: Angry Bone Breaker (4 Creeps) [13XP]
+      stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
+      weapons: Axe, Dagger
+      armour: Helmet
+
+notes:
