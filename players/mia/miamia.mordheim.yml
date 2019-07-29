@@ -10,7 +10,7 @@ shards: 5
 equipment:
 
 heros:
-    - hero: Jack (Warrior) [32XP]
+    - hero: Jacky (Warrior) [32XP]
       stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Axe, Axe
