@@ -1,6 +1,6 @@
-warband: Mia Mia Mia (Orks)
+warband: Mia Mia Mia jo (Orks)
 active: true
-campaign: 20
+campaign: 25
 objective: The Lure of Fortune
 alignment: Lawful/Neutral
 achievments:
@@ -19,7 +19,7 @@ heros:
       warbandaddition: 5
 
 henchmen:
-    - group: Angry Bone Breaker (4 Creeps) [13XP]
+    - group: Angry Bone Breaker (200 Creeps) [13XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Axe, Dagger
       armour: Helmet
