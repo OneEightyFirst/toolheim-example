@@ -1,4 +1,4 @@
-warband: M1a11 (Orks)
+warband: M1a11 (Orkss)
 active: true
 campaign: 25
 objective: The Lure of Fortune
@@ -8,6 +8,8 @@ achievments:
 gc: 100
 shards: 5
 equipment:
+
+
 
 heros:
     - hero: Jacky Chan (Master) [99XP]
