@@ -10,7 +10,7 @@ shards: 5
 equipment:
 
 heros:
-    - hero: Jacky (Warrior) [32XP]
+    - hero: Jacky Chan (Master) [99XP]
       stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Axe, Axe
@@ -19,7 +19,7 @@ heros:
       warbandaddition: 5
 
 henchmen:
-    - group: Angry Bone Breaker (200 Creeps) [13XP]
+    - group: Angry Bone Breakers (201 Creep) [13XP]
       stats: M3, WS4, BS3, S3, T4, W1, I2, A2, Ld8, Sv-
       weapons: Axe, Dagger
       armour: Helmet
