@@ -1,6 +1,6 @@
-warband: The Revolting Dwarfs (Dwarf Rangers)
+warband: The Revolting Dwarfs! (Dwarf Rangers)
 active: true
-campaign: 11
+campaign: 50
 objective: The Lure of Fortune
 alignment: Lawful/Neutral
 achievments: |
@@ -16,7 +16,7 @@ equipment:
 # Racial maximums (Dwarfs):
 # M3, WS7, BS6, S4, T5, W3, I5, A4, Ld10
 heros:
-    - hero: Ragnar (Runesmith) [32XP]
+    - hero: Ragnar (Runesmith) [90XP]
       stats: M3, WS5, BS4, S3, T4, W1, I3, A1, Ld10, Sv-
       skilllists: Combat, Shooting, Academic, Strength, Special
       weapons: Axe, Axe
