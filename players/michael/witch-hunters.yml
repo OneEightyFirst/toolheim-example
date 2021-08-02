@@ -1,0 +1,68 @@
+warband: Witch Hunters
+campaign: 1
+objective: 
+alignment: 
+achievments:
+
+gc: 0
+shards: 0
+equipment:
+
+heros:
+    - hero: Galen ven Denst (Witch Hunter Captain) [20XP]
+      stats: M4, WS4, BS4, S3, T3, W1, I3, A1, Ld8, Sv6
+      skilllists: Combat, Shooting, Academic, Strength, Speed
+      weapons: Double-handed Sword, Pistol, Dagger
+      armour: Light Armour
+      rules: Leader, Burn the Witch!
+
+    - hero: Doralia ven Denst (Witch Hunter) [8XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      skilllists: Combat, Shooting, Academic, Speed
+      weapons: Sword, Crossbow, Dagger
+      armour: 
+      rules: Burn the Witch!
+
+    - hero: Jelsen Darrock (Witch Hunter) [8XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      skilllists: Combat, Shooting, Academic, Speed
+      weapons: Sword, Crossbow, Dagger
+      armour: 
+      rules: Burn the Witch!
+
+    - hero: Artimis Dohge (Witch Hunter) [8XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      skilllists: Combat, Shooting, Academic, Speed
+      weapons: Sword, Brace of Pistols, Dagger
+      armour: 
+      rules: Burn the Witch!
+
+    - hero: Aleria (Warrior Priest) [12XP]
+      stats: M4, WS3, BS3, S3, T3, W1, I3, A1, Ld7, Sv-
+      skilllists: Combat, Academic, Strength
+      weapons: Double-handed Hammer, Dagger
+      armour: 
+      rules: Prayers
+
+henchmen:
+    - group: Zealots of Sigmar (3 Zealots) [0XP]
+      stats: M4, WS2, BS2, S3, T3, W1, I3, A1, Ld7, Sv6
+      weapons: Sword, Dagger
+      armour: Shield
+
+    - group: Hounds (3 Warhounds) [0XP]
+      stats: M6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Sword, Dagger
+      armour: Shield
+
+notes: |
+  Daggers - +1 Enemy armour save: Daggers are not the best weapons to use for penetrating an enemy model’s armour. An enemy wounded by a dagger gains a +1 bonus to his armour save, and a 6+ armour save if he has none normally.															
+	Two-handed - A model armed with a double-handed weapon may not use a shield, buckler or additional weapon in close combat. If the model is equipped with a shield he will still get a +1 bonus to his armour save against shooting.  
+  Strike last - Double-handed weapons are so heavy that the model using them always strikes last, even when charging.
+  Parry - Swords offer an excellent balance of defence and offence. A model armed with a sword may parry blows. When his opponent rolls to hit, the model armed with a sword may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.   																
+	Save modifier - Pistols are even better at penetrating armour than their Strength value of 4 suggests. A model wounded by a pistol must take its armour save with a -2 modifier.
+  Hand-to-hand - Pistols can be used in hand-to-hand combat as well as for shooting. A model armed with a pistol and another close combat weapon gains +1 Attack, which is resolved at Strength 4 with a -2 save modifier. This bonus attack can be used only once per combat. If you are firing a brace of pistols, your model can fight with 2 Attacks in the first turn of close combat. These attacks are resolved with a model’s Weapon Skill like any normal close combat attack and likewise may be parried. Successful hits are resolved at Strength 4 and with a -2 save modifier, regardless of the firer’s Strength.																	
+  Move or fire - You may not move and fire a crossbow on the same turn, other than to pivot on the spot to face your target or to stand up.   																	
+																	
+																																																		
+																	
